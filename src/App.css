@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  justify-content: space-between;
+  width: 520px;
+  margin-left: 30%;
+border-radius: 5px;
+border-color: black;
+border: width 5px; ;
+}
+html{
+  background-color: rgb(51, 87, 248);
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+img{
+  height:200px;
+  width:200px;
+  margin-left: 170px;
+}
+.social-list {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  padding: 0
+}
+
+.social-list li {
+  padding: 10px;
+  color: #2443aa;
+  font-size: 19px
+}
+.buttons{
+  
+    color: #2d24aa;
+    height: 40px
+}
+span{
+  margin-left: 190px;
+  width:120px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.card{
+  text-align: center;
+}
